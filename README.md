@@ -1,7 +1,7 @@
 # File-Zipper
 Huffman Coding implementation for a text file in C++.
 # Huffman Coding 
-Huffman Coding is a lossless, bottom-up compression algorithm. It can compress and decompress any text files.
+Huffman Coding is a lossless, bottom-up compression algorithm. It can be used to compress and decompress any text files.
 # Requirements:
 C++ compiler.
 # Execution Steps:-
